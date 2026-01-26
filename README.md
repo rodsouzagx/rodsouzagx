@@ -14,7 +14,7 @@ Busco constantemente aplicar as melhores práticas de desenvolvimento para entre
 
 * **Nome**: Rodrigo de Souza
 * **Foco**: Full Stack Web Development
-* **Stack**: JavaScript, Node.js, React, SQL, Docker
+* **Stack**: JavaScript - Node.js - React - SQL - Docker
 * **Aprendendo**: Inglês e TypeScript
 * **Universidade**: Graduando em Ciência da Computação
 
